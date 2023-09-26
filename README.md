@@ -9,7 +9,7 @@ This repository contains a comprehensive MASM project that dives deep into strin
 
 ## ✨ Features
 
-- **String Processing Macros**: Harnessing Irvine’s ReadString for user input and deploying WriteString procedures for visual output.
-- **Signed Integer Procedures**: Crafted procedures to manage signed integers, tapping into string primitive instructions.
-- **Error Handling**: No corners cut! We ensure the acceptance of only valid numeric inputs, setting barriers against invalid characters or numbers that dare to breach bounds.
-- **User Interaction**: Engage with user inputs and displays, all backed by assembly procedures.
+- **String Processing Macros**: 
+- **Signed Integer Procedures**:
+- **Error Handling**: 
+- **User Interaction**: 
