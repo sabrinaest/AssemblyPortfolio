@@ -2,7 +2,7 @@
 
 A comprehensive MASM project that dives deep into string processing macros, signed integer procedures, and error handling. 
 
-<video loop src="assembly-video.mp4"></video>
+<video loop src="/assembly-video.mp4"></video>
 
 ## 📝 Program Description
 
