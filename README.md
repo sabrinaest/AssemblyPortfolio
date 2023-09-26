@@ -18,6 +18,6 @@ This program prompts the user to enter 10 valid signed integers and dynamically 
 
 ## 📚 Documentation & References
 
-**Assembly Language for x86 Processors**
-* Author: Kip R. Irvine
-* Description: This textbook served as the foundational resource for the assembly language concepts implemented in this project.
+**Textbook Reference**
+
+* **Assembly Language for x86 Processors by Kip R. Irvine**: A foundational resource for the assembly language concepts implemented in this project.
