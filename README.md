@@ -2,7 +2,7 @@
 
 A comprehensive MASM project that dives deep into string processing macros, signed integer procedures, and error handling. 
 
-![Assembly GIF](https://github.com/sabrinaest/AssemblyPortfolio/blob/7a164b52e34f32509826cd08b38897f3a26d68a5/assembly.gif)
+https://github.com/sabrinaest/AssemblyPortfolio/assets/102570901/0c807256-a71d-4eb3-b246-fd8a02e54a2b
 
 ## 📝 Program Description
 
