@@ -18,6 +18,10 @@ This program prompts the user to enter 10 valid signed integers and dynamically 
   
 - **User Interaction**: Collects input from user and displays the set of integers, their sum and the truncated average.
 
+## Languages Used
+
+![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
+
 ## 📚 Documentation & References
 
 **Assembly Language for x86 Processors**
