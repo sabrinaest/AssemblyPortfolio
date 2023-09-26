@@ -17,7 +17,7 @@ INCLUDE Irvine32.inc
 ; Name: mGetString
 ; 
 ; Display a prompt (input parameter, by reference), then gets 
-; the user’s keyboard input into a memory location (output parameter, by reference). 
+; the userâ€™s keyboard input into a memory location (output parameter, by reference). 
 ; It also gets the user inputs length (max bytes to read), and gets the bytes read.
 ; 
 ; Receives:
@@ -319,7 +319,7 @@ introduction ENDP
 ; 
 ; Invoke the mGetString macro (see parameter requirements above) to get user input in the form of a 
 ; string of digits.Convert (using string primitives) the string of ascii digits to its numeric 
-; value, validates the user’s input is a valid number. Stores the converted value into an array
+; value, validates the userâ€™s input is a valid number. Stores the converted value into an array
 ;  
 ; Preconditions: global variables valid_num_list, sign_in_front, try_again_message, valid_num, invalid_message,
 ; user_input_bytes, user_input_length, user_input, prompt_user passed on the stack as parameters to the correct address.
